@@ -6,7 +6,7 @@ App creator
 
 Make life easier for developers with my free app ❤️ 
 
-🧑‍💻 Building an unique App to turn your notes into amazing scripts
+🧑‍💻 Build atypical apps to turn your notes into amazing scripts
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [alc-digital.fr](http://alc-digital.fr)
