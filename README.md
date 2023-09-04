@@ -1,10 +1,10 @@
-Hi 👋 My name is Anthony LAGREDE
+I'm Anthony 👋
 ================================
 
-App creator
+Dev and App creator
 -----------
 
-Make life easier for developers with my free app ❤️ 
+I make life easier for developers with my free app ❤️ 
 
 🧑‍💻 Build atypical apps to turn your notes into amazing scripts
 
